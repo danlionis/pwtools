@@ -1,0 +1,9 @@
+[package]
+name = "pwtools"
+version = "0.1.0"
+authors = ["Dan Lionis <lionis.dan@gmail.com>"]
+
+[dependencies]
+rand = "*"
+rust-crypto = "*"
+clap = "*"
